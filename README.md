@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmirRogerio&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirRogerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirRogerio&layout=compact&v=123)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens que utilizo no meu dia a dia
 
