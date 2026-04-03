@@ -1,9 +1,10 @@
 # Olá, eu sou Almir Rogerio 👋
 
-**Desenvolvedor Full Stack com foco em Back-end, APIs, automações e integrações** 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
+**Desenvolvedor Full Stack com foco em Back-end, APIs, automações e integrações** <br /><br />
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
 🎓 Técnico em Desenvolvimento de Sistemas  
 💼 2 anos de experiência na área de tecnologia
-
+<br /> <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almir-rogerio-duarte-mariucio-b59633253/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/almirrogerio.dm?igshid=ZDdkNTZiNTM=/)
 
